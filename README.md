@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shouvik 👋</h1>
 
-<p align="center">Python developer building Telegram bots and dev tools.</p>
+<p align="center">📍India </p>
 
 ---
 
