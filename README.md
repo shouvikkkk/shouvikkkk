@@ -18,9 +18,6 @@ Building small dev tools and Telegram bots in Python — tools that solve real p
 - ✍️ **[fancy-text](https://github.com/shouvikkkk/fancy-text)** - 22 Unicode text styles for bios and posts, CLI + library
 - 🖼️ **[tg-media-tools](https://github.com/shouvikkkk/tg-media-tools)** - watermark and compress images for Telegram sharing
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shouvikkkk&theme=tokyo-night&hide_border=true)
 
 ## What I'm Doing
 
