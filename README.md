@@ -18,6 +18,7 @@ Building small dev tools and Telegram bots in Python — tools that solve real p
 - ✍️ **[fancy-text](https://github.com/shouvikkkk/fancy-text)** - 22 Unicode text styles for bios and posts, CLI + library
 - 🖼️ **[tg-media-tools](https://github.com/shouvikkkk/tg-media-tools)** - watermark and compress images for Telegram sharing
 - 🚦 **[tg-floodgate](https://github.com/shouvikkkk/tg-floodgate)** - distributed 429-aware send governor for Telegram bots — scope-aware sliding-window rate limiting (Redis/SQLite/memory), retry_after learning, priority broadcast pacing
+- ⭐ **[tg-stars-ledger](https://github.com/shouvikkkk/tg-stars-ledger)** - crash-safe Telegram Stars payment ledger with automatic stuck-payment reconciliation
 
 ## What I'm Doing
 
@@ -27,9 +28,7 @@ Building small dev tools and Telegram bots in Python — tools that solve real p
 
 ## Connect
 
-[![X](https://img.shields.io/badge/-@0xshouvik_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xshouvik_ )
-
----
+[![X](https://img.shields.io/badge/-@0xshouvik_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xshouvik_)
 
 ### Philosophy
 
