@@ -2,7 +2,7 @@
 
 📍 **India** | 🐍 **Python developer** | 🤖 **Telegram bot builder**
 
-Building small dev tools and Telegram bots in Python — tools that solve real problems, shipped fast and documented well.
+Building small dev tools and Telegram bots in Python – tools that solve real problems, shipped fast and documented well.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
@@ -13,12 +13,13 @@ Building small dev tools and Telegram bots in Python — tools that solve real p
 
 ## Start Here
 
-- 🔍 **[repo-doctor](https://github.com/shouvikkkk/repo-doctor)** - point it at any GitHub repo, get a 0–100 professionalism score
+- 🔍 **[repo-doctor](https://github.com/shouvikkkk/repo-doctor)** - point it at any GitHub repo, get a 0-100 professionalism score
 - 📝 **[gh-readme-maker](https://github.com/shouvikkkk/gh-readme-maker)** - generate a professional GitHub profile README from a JSON config
 - ✍️ **[fancy-text](https://github.com/shouvikkkk/fancy-text)** - 22 Unicode text styles for bios and posts, CLI + library
 - 🖼️ **[tg-media-tools](https://github.com/shouvikkkk/tg-media-tools)** - watermark and compress images for Telegram sharing
-- 🚦 **[tg-floodgate](https://github.com/shouvikkkk/tg-floodgate)** - distributed 429-aware send governor for Telegram bots — scope-aware sliding-window rate limiting (Redis/SQLite/memory), retry_after learning, priority broadcast pacing
+- 🚦 **[tg-floodgate](https://github.com/shouvikkkk/tg-floodgate)** - distributed 429-aware send governor for Telegram bots – scope-aware sliding-window rate limiting (Redis/SQLite/memory), retry_after learning, priority broadcast pacing
 - ⭐ **[tg-stars-ledger](https://github.com/shouvikkkk/tg-stars-ledger)** - crash-safe Telegram Stars payment ledger with automatic stuck-payment reconciliation
+- 🔄 **[tg-rotate](https://github.com/shouvikkkk/tg-rotate)** - Telegram bot token rotation supervisor — finds every copy of a token, replaces them atomically, and verifies the running service actually uses the new one.
 
 ## What I'm Doing
 
@@ -32,4 +33,4 @@ Building small dev tools and Telegram bots in Python — tools that solve real p
 
 ### Philosophy
 
-> "Small tools, well made." — I build things I actually use, then share them.
+> "Small tools, well made." – I build things I actually use, then share them.
