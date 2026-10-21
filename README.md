@@ -1,8 +1,11 @@
 ## Hi, I'm Shouvik 👋
 
+
 📍 **India** | 🐍 **Python developer** | 🤖 **Telegram bot builder**
 
+
 Building small dev tools and Telegram bots in Python – tools that solve real problems, shipped fast and documented well.
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
@@ -11,7 +14,9 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 
+
 ## Start Here
+
 
 - 🔍 **[repo-doctor](https://github.com/shouvikkkk/repo-doctor)** - point it at any GitHub repo, get a 0-100 professionalism score
 - 📝 **[gh-readme-maker](https://github.com/shouvikkkk/gh-readme-maker)** - generate a professional GitHub profile README from a JSON config
@@ -20,17 +25,24 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - 🚦 **[tg-floodgate](https://github.com/shouvikkkk/tg-floodgate)** - distributed 429-aware send governor for Telegram bots – scope-aware sliding-window rate limiting (Redis/SQLite/memory), retry_after learning, priority broadcast pacing
 - ⭐ **[tg-stars-ledger](https://github.com/shouvikkkk/tg-stars-ledger)** - crash-safe Telegram Stars payment ledger with automatic stuck-payment reconciliation
 - 🔄 **[tg-rotate](https://github.com/shouvikkkk/tg-rotate)** - Telegram bot token rotation supervisor — finds every copy of a token, replaces them atomically, and verifies the running service actually uses the new one.
+- 🔏 **[ctxproof](https://github.com/shouvikkkk/ctxproof)** - wrap any lossy context compressor with a verifiable byte-exact restoration guarantee
+
 
 ## What I'm Doing
+
 
 - **Building in public** - small Python tools, one at a time, each documented and licensed
 - **Telegram ecosystem** - bots and media tooling around Telegram workflows
 - **Learning by shipping** - every repo is a finished, usable tool, not a tutorial
 
+
 ## Connect
+
 
 [![X](https://img.shields.io/badge/-@0xshouvik_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xshouvik_)
 
+
 ### Philosophy
+
 
 > "Small tools, well made." – I build things I actually use, then share them.
