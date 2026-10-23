@@ -26,6 +26,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - ⭐ **[tg-stars-ledger](https://github.com/shouvikkkk/tg-stars-ledger)** - crash-safe Telegram Stars payment ledger with automatic stuck-payment reconciliation
 - 🔄 **[tg-rotate](https://github.com/shouvikkkk/tg-rotate)** - Telegram bot token rotation supervisor — finds every copy of a token, replaces them atomically, and verifies the running service actually uses the new one.
 - 🔏 **[ctxproof](https://github.com/shouvikkkk/ctxproof)** - wrap any lossy context compressor with a verifiable byte-exact restoration guarantee
+- 🔁 **[handover](https://github.com/shouvikkkk/handover)** - portable, verified session handoffs between coding agents (Claude Code ↔ Codex)
 
 
 ## What I'm Doing
