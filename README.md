@@ -38,7 +38,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - 🔏 **[ctxproof](https://github.com/shouvikkkk/ctxproof)** - wrap any lossy context compressor with a verifiable byte-exact restoration guarantee
 - 🔁 **[handover](https://github.com/shouvikkkk/handover)** - portable, verified session handoffs between coding agents (Claude Code ↔ Codex)
 - 🎯 **[re-ground](https://github.com/shouvikkkk/re-ground)** - Ground-truth checker for agent reverse-engineering reports.
-- 🎯 merge-semantics - Post-merge semantic conflict checker for parallel coding agents.
+- 🔀 **[merge-semantics](https://github.com/shouvikkkk/merge-semantics)** - post-merge semantic conflict checker for parallel coding agents
 
 
 
