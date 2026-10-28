@@ -41,6 +41,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - 🔀 **[merge-semantics](https://github.com/shouvikkkk/merge-semantics)** - post-merge semantic conflict checker for parallel coding agents
 - 🧬 **[skillclone](https://github.com/shouvikkkk/skillclone)** - find cloned and stale agent skills with zero metadata, from content alone
 - 🛡️ **[ollama-trunc-guard](https://github.com/shouvikkkk/ollama-trunc-guard)** - fail-closed pre-flight gate for Ollama agent runs: catches silent front-truncation before it eats your system prompt and tools
+- 🧭 **[mcp-toolfind](https://github.com/shouvikkkk/mcp-toolfind)** - audit whether coding agents can actually find your MCP server's tools — per-client discovery simulation across Claude Code, Codex and OpenCode
 
 
 
