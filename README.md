@@ -44,6 +44,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - 🧭 **[mcp-toolfind](https://github.com/shouvikkkk/mcp-toolfind)** - audit whether coding agents can actually find your MCP server's tools — per-client discovery simulation across Claude Code, Codex and OpenCode
 - 🔒 **[skillbound](https://github.com/shouvikkkk/skillbound)** - static scope checker for agent skills: does the bundle stay inside what SKILL.md promises?
  - 🔐 **[oauth-sink-check](https://github.com/shouvikkkk/oauth-sink-check)** - trace untrusted OAuth endpoint URLs to shell sinks: the CVE-2026-119025 attack class, checked in your code, lockfile and MCP configs
+- 🛑 **[stallwatch](https://github.com/shouvikkkk/stallwatch)** - Offline stall detector for coding-agent run traces: finds tool-call loops and no-progress runs, and prices the waste.
 
 
 
