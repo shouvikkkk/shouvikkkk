@@ -45,6 +45,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - 🔒 **[skillbound](https://github.com/shouvikkkk/skillbound)** - static scope checker for agent skills: does the bundle stay inside what SKILL.md promises?
  - 🔐 **[oauth-sink-check](https://github.com/shouvikkkk/oauth-sink-check)** - trace untrusted OAuth endpoint URLs to shell sinks: the CVE-2026-119025 attack class, checked in your code, lockfile and MCP configs
 - 🛑 **[stallwatch](https://github.com/shouvikkkk/stallwatch)** - Offline stall detector for coding-agent run traces: finds tool-call loops and no-progress runs, and prices the waste.
+- - ⚔ **[skillclash](https://github.com/shouvikkkk/skillclash)** - Offline auditor for agent skill libraries: cross-skill contradictions, shadowing, and discovery-budget overflow.
 
 
 
