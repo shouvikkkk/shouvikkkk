@@ -47,6 +47,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
 - 🛑 **[stallwatch](https://github.com/shouvikkkk/stallwatch)** - Offline stall detector for coding-agent run traces: finds tool-call loops and no-progress runs, and prices the waste.
 - - ⚔ **[skillclash](https://github.com/shouvikkkk/skillclash)** - Offline auditor for agent skill libraries: cross-skill contradictions, shadowing, and discovery-budget overflow.
   - ✂️ **[prompt-prune](https://github.com/shouvikkkk/prompt-prune)** - Provenance-aware pruner for agent instruction files: finds rules safe to delete, contradictions, and dead references, with git-blame birth for every rule.
+  - 🩺 **[hook-doctor](https://github.com/shouvikkkk/hook-doctor)** - test and audit Claude Code hook configurations: find the dead guards before a session trusts them
 
 
 
