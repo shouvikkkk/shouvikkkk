@@ -50,6 +50,7 @@ Building small dev tools and Telegram bots in Python – tools that solve real p
   - 🩺 **[hook-doctor](https://github.com/shouvikkkk/hook-doctor)** - test and audit Claude Code hook configurations: find the dead guards before a session trusts them
   - 🎈 **[inflate-check](https://github.com/shouvikkkk/inflate-check)** - Detect constraint inflation in compacted agent summaries: preferences turned into requirements, one-offs into standing rules, narrow scopes into 'all', replaced values kept as current.
   - 🎬 **[vod-moments](https://github.com/shouvikkkk/vod-moments)** - find the funny moments in a long GTA 6 stream without rewatching it — free, offline, from captions or sound
+  - 🎯 **[upi-hisaab](https://github.com/shouvikkkk/upi-hisaab)** - Turn your bank statement into a plain-language monthly budget.
 
 
 
