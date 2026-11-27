@@ -1,8 +1,8 @@
 ## Hi, I'm Shouvik 👋
 
-📍 **India** | 🐍 **Python developer** | 🛠️ **Real-life tools & open source**
+📍 **India** | 🛠️ **building real-life tools** | 🔥 **ships daily**
 
-Building small Python tools for everyday problems — and contributing fixes to open-source projects people actually use. Every repo is finished, tested, and documented.
+Building small tools for everyday problems — and contributing fixes to open-source projects people actually use. Every repo is finished, tested, and documented.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
