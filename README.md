@@ -1,4 +1,4 @@
-## Hi, I'm Shouvik 👋
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm Shouvik
 
 📍 **India** | 🛠️ **building real-life tools** | 🔥 **ships daily**
 
@@ -6,7 +6,7 @@ Building small tools for everyday problems — and contributing fixes to open-so
 
 **One real ship every day since Oct 2026** — a tool, a fix, or a review.
 
-![Contribution graph](https://ghchart.rshah.org/shouvikkkk)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shouvikkkk/shouvikkkk/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shouvikkkk/shouvikkkk/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shouvikkkk/shouvikkkk/output/github-contribution-grid-snake.svg"></picture>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
